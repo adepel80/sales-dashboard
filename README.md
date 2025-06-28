@@ -5,3 +5,4 @@ sales Analytics Dashboard (Power BI) Interactive dashboard visualizing sales per
 Excel, Power BI, Python
 ##
 
+![Image](https://github.com/user-attachments/assets/1d428584-8cb1-4549-9350-9093f5890975)
